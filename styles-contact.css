@@ -73,7 +73,7 @@ html, body {
 	min-width: 300 px; /*this is for responsiveness*/
 	padding: 2%;
     margin: 100px auto;
- 	background: #E6D1F2; opacity: 30; 
+ 	background: #E6D1F2 75% { opacity: 30 }; 
 	text-align: center;
 	border: 4px white;
 
